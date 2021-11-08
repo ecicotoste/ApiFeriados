@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'feriados'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B39D518A47F4C5F885A1796E80C014E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A9CB69D2BAA448D86BBC1A3BAC3B52E }}
           package: .
